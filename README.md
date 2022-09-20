@@ -1,7 +1,7 @@
 # CRM - Customer Relationship Manager
 
 ````
-Spring MVC ve Hibernate kullanılarak CRUD operasyonunun pratik edilmesi amacıyla yapılan uygulaması
+Spring MVC ve Hibernate kullanılarak CRUD operasyonlarının pratik edilmesi amacıyla yapılan uygulaması
 ````
 <a href="https://www.udemy.com/course/spring-hibernate-tutorial/" rel="nofollow">Reference Udemy Lesson (Chad Darby)</a>
 
